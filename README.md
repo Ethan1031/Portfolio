@@ -6,6 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Skills
 • SQL and database (SQL Server, MySQL, PostgreSQL, MongoDB)
+
 • Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
 • R Programming (dslyr, ggplot, tidyr)
 • Tableau (Tableau Desktop, Tableau Public)
