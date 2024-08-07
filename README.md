@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [zhipengl784@gmail.com](zhipengl784@gmail.com)
-- **Indeed**: [[indeed](https://profile.indeed.com/p/tingzhipenge-q0krc8l)
+- **Indeed**: [[[indeed](https://profile.indeed.com/p/tingzhipenge-q0krc8l)](https://profile.indeed.com/p/tingzhipenge-q0krc8l)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
