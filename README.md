@@ -8,16 +8,27 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 • SQL and database (SQL Server, MySQL, PostgreSQL, MongoDB)
 
 • Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
+
 • R Programming (dslyr, ggplot, tidyr)
+
 • Tableau (Tableau Desktop, Tableau Public)
+
 • Power BI (API, Power Query)
+
 • Excel (Pivot Tables, Pivot Chart)
+
 • Figma (UI&UX)
+
 • Flutter (Dart language)
+
 • Machine Learning, CV, NLP, and EDA
+
 • Deep Learning Framework (TensorFlow, PyTorch)
+
 • Python (backend programming)
+
 • Cloud Platform (AWS)
+
 • Git and GitHub (version control system)
 
 ## Projects
